@@ -57,6 +57,6 @@ Future Improvements
 - Add more visualizations
 - Deploy the application online
 
-Author
+
 
 
